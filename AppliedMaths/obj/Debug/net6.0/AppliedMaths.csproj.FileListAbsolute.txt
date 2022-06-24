@@ -1,0 +1,15 @@
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/bin/Debug/net6.0/AppliedMaths
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/bin/Debug/net6.0/AppliedMaths.deps.json
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/bin/Debug/net6.0/AppliedMaths.runtimeconfig.json
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/bin/Debug/net6.0/AppliedMaths.dll
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/bin/Debug/net6.0/ref/AppliedMaths.dll
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/bin/Debug/net6.0/AppliedMaths.pdb
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.csproj.AssemblyReference.cache
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.GeneratedMSBuildEditorConfig.editorconfig
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.AssemblyInfoInputs.cache
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.AssemblyInfo.cs
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.csproj.CoreCompileInputs.cache
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.dll
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/ref/AppliedMaths.dll
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.pdb
+/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/obj/Debug/net6.0/AppliedMaths.genruntimeconfig.cache

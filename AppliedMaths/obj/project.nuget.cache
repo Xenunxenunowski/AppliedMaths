@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/elgjAmnJcaTEJmXA/etRlQ9AUePyn6hLrBNTVbqiqYwn/TEpqSyxjmIxOaiR94PnTO8kKvRPLmdcVcprO/BSA==",
+  "success": true,
+  "projectFilePath": "/home/xenu/RiderProjects/AppliedMaths/AppliedMaths/AppliedMaths.csproj",
+  "expectedPackageFiles": [
+    "/home/xenu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
